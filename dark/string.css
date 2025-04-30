@@ -4,6 +4,5 @@
  */
 
 .theme-dark {
-  --string-palette-magenta-string: "String value";
-  --string-font-family: "Inter";
+  --string_font_family: "Inter";
 }
